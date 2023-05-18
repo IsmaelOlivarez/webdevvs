@@ -19,5 +19,5 @@ section{
     background: red;
     display: flex;
     justify-content: center;
-    align-items: left;
+    align-items: center;
 }
